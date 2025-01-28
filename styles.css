@@ -21,7 +21,13 @@
     max-height:10em;
     word-spacing:2px;
     overflow-y:scroll;
+    color:black;
 }
 p{
+    color: aliceblue;
     font: 1em sans-serif;
+}
+
+body{
+    background-color:#000957;
 }
